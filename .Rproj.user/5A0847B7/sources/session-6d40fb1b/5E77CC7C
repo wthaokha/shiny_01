@@ -1,0 +1,26 @@
+{
+    "id": "5E77CC7C",
+    "path": "~/R/dataviz/shiny/shiny/modules/download_module.R",
+    "project_path": "modules/download_module.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1750409000609.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,12",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1773671657,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1773671657467,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,26 @@
+{
+    "id": "BCD7C3D0",
+    "path": "~/R/dataviz/shiny/shiny/modules/upload_module.R",
+    "project_path": "modules/upload_module.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1750407542974.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,12",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1773671644,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1773671644194,
+    "read_only": false,
+    "read_only_alternatives": []
+}
